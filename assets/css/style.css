@@ -96,6 +96,7 @@ h2 { font-size: clamp(2.1rem, 3.7vw, 3.5rem); line-height: 1.12; letter-spacing:
 .site-footer nav a, .footer-contact { display: inline-flex; align-items: center; min-height: 44px; font-size: .8rem; text-decoration: none; }
 .site-footer ul { flex-wrap: wrap; gap: 0 1.5rem; }
 .footer-contact { gap: 1rem; }
+.footer-contacts { display: flex; flex-wrap: wrap; gap: 0 1.5rem; }
 .footer-bottom { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 1rem; font-size: .7rem; color: #B8B8B2; }
 .footer-bottom a { display: inline-flex; align-items: center; gap: 1rem; min-height: 44px; }
 .footer-bottom p { align-self: center; }
